@@ -5,20 +5,20 @@ Thank you for your interest in contributing to contenvoice! Contributions are a 
 ## How Can You Contribute?
 
 You can contribute in various ways:
-- **Report Bugs**: If you find any issues or bugs, report them in the [Issues](https://github.com/mikandex/contenvoice/issues) section.
-- **Suggest Features**: Have ideas to improve contenvoice? Submit a feature request in the [Issues](https://github.com/mikandex/contenvoice/issues) section.
+- **Report Bugs**: If you find any issues or bugs, report them in the [Issues](https://github.com/Mikandex/contenvoice/issues) section.
+- **Suggest Features**: Have ideas to improve contenvoice? Submit a feature request in the [Issues](https://github.com/Mikandex/contenvoice/issues) section.
 - **Submit Pull Requests**: Fix bugs, improve documentation, or add new features by submitting a pull request.
 - **Improve UI/UX**: Help enhance the look and feel of the application.
 
 ## Getting Started
 
 1. **Fork the Repository**
-   - Go to the [contenvoice GitHub repository](https://github.com/mikandex/contenvoice) and click the "Fork" button to create a copy of the repository in your account.
+   - Go to the [contenvoice GitHub repository](https://github.com/Mikandex/contenvoice) and click the "Fork" button to create a copy of the repository in your account.
 
 2. **Clone the Repository**
    - Clone your forked repository to your local machine using:
      ```bash
-     git clone https://github.com/mikandex/contenvoice.git
+     git clone https://github.com/Mikandex/contenvoice.git
      ```
 
 3. **Create a Branch**
@@ -44,7 +44,7 @@ You can contribute in various ways:
      ```
 
 7. **Submit a Pull Request**
-   - Go to the original [contenvoice repository](https://github.com/mikandex/contenvoice) on GitHub.
+   - Go to the original [contenvoice repository](https://github.com/Mikandex/contenvoice) on GitHub.
    - Click on the "Pull Request" tab and then click the "New Pull Request" button.
    - Select your branch and submit the pull request. Provide a detailed description of the changes you made.
 
@@ -61,7 +61,7 @@ You can contribute in various ways:
 
 ## Reporting Issues
 If you encounter any bugs or issues while using contenvoice, please report them by following these steps:
-1. Check the [Issues](https://github.com/mikandex/contenvoice/issues) section to see if the issue has already been reported.
+1. Check the [Issues](https://github.com/Mikandex/contenvoice/issues) section to see if the issue has already been reported.
 2. If it hasn't, create a new issue and include:
    - A detailed description of the issue
    - Steps to reproduce the issue
@@ -77,7 +77,7 @@ We appreciate all contributions! Your efforts make contenvoice a better project 
 ## Contact
 For further questions or issues, feel free to reach out:
 - Email: [stephen@maekandex.com.ng](mailto:stephen@maekandex.com.ng)
-- GitHub: [@mikandex](https://github.com/mikandex)
+- GitHub: [@Mikandex](https://github.com/Mikandex)
 
 ---
 
