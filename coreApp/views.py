@@ -24,19 +24,21 @@ def home(request):
         else:
             tts = gTTS(text=text, lang=language, tld=accent, slow=False)
 
+
         audio_dir = os.path.join('static', 'audio')
         if not os.path.exists(audio_dir):
             os.makedirs(audio_dir)
 
         file_name = f'maekandex-{title}.mp3'
         file_path = os.path.join(audio_dir, file_name)
-        tts.save(file_path)
-
-        Visitors.objects.create(title=title, text=text, ipaddress=ip_address, date=date, language=language,
-                                accent=accent)
+        # tts.save(file_path)
+        #
+        # Visitors.objects.create(title=title, text=text, ipaddress=ip_address, date=date, language=language,
+        #                         accent=accent)
 
         return render(request, 'audio.html', {'audio_file': f'audio/{file_name}'})
 
     else:
         return render(request, 'index.html')
+
 
