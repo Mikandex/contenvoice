@@ -27,5 +27,5 @@ EXPOSE 8009
 
 # Run migrations, collect static, and start with Gunicorn
 #CMD sh -c "python manage.py run_huey & uvicorn Mtnservices.asgi:application --host 0.0.0.0 --port 8001 "
-CMD sh -c "gunicorn contentvoice.asgi:application --host 0.0.0.0 --port 8009"
+CMD sh -c "gunicorn contentvoice.wsgi:application --host 0.0.0.0 --port 8009"
 
