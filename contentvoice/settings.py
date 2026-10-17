@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-9wt69*b^co51*25kovtmqkn8$7g)*od-p4(%2j5dmwe8!kbr20
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["contentvoice.maekandex.com"]
+ALLOWED_HOSTS = ["contentvoice.maekandex.com", '127.0.0.1']
 CORS_ALLOW_ALL_ORIGINS = True
 
 
