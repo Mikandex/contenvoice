@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-9wt69*b^co51*25kovtmqkn8$7g)*od-p4(%2j5dmwe8!kbr20'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["contentvoice.maekandex.com"]
 CORS_ALLOW_ALL_ORIGINS = True
