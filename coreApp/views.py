@@ -31,7 +31,6 @@ def home(request):
 
         file_name = f'maekandex-{title}.mp3'
         file_path = os.path.join(audio_dir, file_name)
-        
         tts.save(file_path)
         #
         # Visitors.objects.create(title=title, text=text, ipaddress=ip_address, date=date, language=language,
